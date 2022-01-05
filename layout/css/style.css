@@ -74,6 +74,18 @@ section {
     .footer{
         text-align: center;
     }
+    .header .main .content {
+        padding: 10px 0 !important;
+    }
+    .header .main h1{
+        font-size: 36px !important;
+    }
+    .undraw img {
+        max-width: 250px !important;
+    }
+    .more .text{
+        width: 100% !important;
+    }
 }
 .topbar {
     background-color: #1b1c1e;
